@@ -1,0 +1,20 @@
+# Compiled Java files (Bytecodes)
+*.class
+*.bluej
+*.pkg
+
+# Log files
+*.log
+
+# IntelliJ IDEA configuration folder
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code configurations
+.vscode/
+
+# Operating system temporary files
+.DS_Store
+Thumbs.db
